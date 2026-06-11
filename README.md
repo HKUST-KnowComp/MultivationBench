@@ -1,5 +1,12 @@
 # MulTivationBench
 
+[![Stars](https://img.shields.io/github/stars/Andychung1229/MultivationBench?style=social)](https://github.com/Andychung1229/MultivationBench/stargazers)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b?logo=arxiv)]()
+[![Citation](https://img.shields.io/badge/cite-BibTeX-orange)](#citation)
+[![Data](https://img.shields.io/badge/Data-Release--safe-blue)](data/multivationbench.json)
+[![License](https://img.shields.io/badge/License-See%20Data%20Terms-yellow)](#data-and-license-notice)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06-blue)]()
+
 **MulTivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning**
 
 MulTivationBench evaluates whether multimodal large language models can infer why

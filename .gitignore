@@ -1,0 +1,17 @@
+# Upstream source data and recovered media
+Datasets/
+videos/
+
+# Generated restored benchmark variants
+data/*_restored.json
+data/*with_story*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local config and OS files
+.env
+.DS_Store
+Thumbs.db

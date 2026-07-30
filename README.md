@@ -160,10 +160,13 @@ and [data/README.md](data/README.md) before publishing or using the dataset.
 ## Citation
 
 ```bibtex
-@misc{chung2026multivationbench,
-  title        = {MulTivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning},
-  author       = {Chung, Kawai and Chan, Chunkit and Yim, Yauwai and Liu, Yuxuan and Shi, Haochen and Wang, Weiqi and Zong, Qing and Zheng, Tianshi and Fu, Yixuan and Wong, Kai Chung and Liang, Hao and Gao, Yifan and Yang, Xi and Hsiao, Janet Hui-wen and Song, Yangqiu},
-  year         = {2026},
-  note         = {Manuscript under review}
+@misc{chung2026multivationbenchbenchmarkmultimodalsequential,
+      title={MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning}, 
+      author={Kawai Chung and Chunkit Chan and Yauwai Yim and Yuxuan Liu and Haochen Shi and Weiqi Wang and Qing Zong and Tianshi Zheng and Yixuan Fu and Kai Chung Wong and Hao Liang and Yifan Gao and Xi Yang and Janet Hui-wen Hsiao and Yangqiu Song},
+      year={2026},
+      eprint={2607.26465},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.26465}, 
 }
 ```

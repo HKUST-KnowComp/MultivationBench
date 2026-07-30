@@ -1,6 +1,6 @@
 # MulTivationBench
 
-[![arXiv](https://arxiv.org/abs/2607.26465)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2607.26465-b31b1b.png)](https://arxiv.org/abs/2607.26465)
 
 **MulTivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning**
 
